@@ -8,4 +8,4 @@ a ugly tool which allows you to upload image of hand written digits between 0-9 
 
 ## arc
 
--linear FFnn
+- linear FFnn
